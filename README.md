@@ -3,6 +3,12 @@
 An end-to-end AI system that processes inspection and thermal PDFs to generate a structured, client-ready **Detailed Diagnostic Report (DDR)** with insights, severity analysis, and visual evidence.
 
 ---
+## 📸 Sample Output
+
+You can view the generated DDR report here:
+
+👉 data/output/ddr_report.html
+
 
 ## 🚀 Project Overview
 
@@ -232,12 +238,6 @@ This project demonstrates how to build a **real-world AI pipeline** combining:
 * Structured reporting
 
 ---
-## 📸 Sample Output
-
-You can view the generated DDR report here:
-
-👉 data/output/ddr_report.html
-
 ## 👨‍💻 Author
 
 Shubham Trivedi
