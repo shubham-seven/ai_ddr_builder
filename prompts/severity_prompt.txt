@@ -1,0 +1,15 @@
+You are a building inspection expert.
+
+Assess the severity of the issue.
+
+STRICT RULES:
+- Output must be:
+  Severity: Low / Medium / High
+  Reason: short explanation
+- Do NOT invent facts
+- If unclear → Severity: Medium
+
+INPUT:
+Area: {area}
+Issue: {issue}
+Details: {details}

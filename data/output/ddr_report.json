@@ -1,0 +1,232 @@
+{
+    "Property Issue Summary": [
+        "WC: Flagged item",
+        "External wall: Flagged item",
+        "General Area: Hotspot detected",
+        "General Area: Coldspot detected"
+    ],
+    "Area-wise Observations": [
+        {
+            "area": "WC",
+            "issue": "Flagged item",
+            "details": "An item was flagged during the inspection. The report indicated '1 flagged' item in summary. Specific details of the issue are not provided.",
+            "images": []
+        },
+        {
+            "area": "External wall",
+            "issue": "Flagged item",
+            "details": "An item was flagged during the inspection. The report indicated '1 flagged' item in summary. Specific details of the issue are not provided.",
+            "images": []
+        },
+        {
+            "area": "General Area",
+            "issue": "Hotspot detected",
+            "details": "Temperature of 28.8 \u00b0C identified. | Thermal reading of 27.4 \u00b0C.",
+            "images": [
+                {
+                    "image_path": "data/images\\thermal_p1_3.png",
+                    "page": 1,
+                    "index": 3,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_4.png",
+                    "page": 1,
+                    "index": 4,
+                    "width": 1080,
+                    "height": 812
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_9.png",
+                    "page": 1,
+                    "index": 9,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_10.png",
+                    "page": 1,
+                    "index": 10,
+                    "width": 1080,
+                    "height": 812
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_15.png",
+                    "page": 1,
+                    "index": 15,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_16.png",
+                    "page": 1,
+                    "index": 16,
+                    "width": 1080,
+                    "height": 812
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_21.png",
+                    "page": 1,
+                    "index": 21,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_22.png",
+                    "page": 1,
+                    "index": 22,
+                    "width": 1080,
+                    "height": 812
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_27.png",
+                    "page": 1,
+                    "index": 27,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_28.png",
+                    "page": 1,
+                    "index": 28,
+                    "width": 1080,
+                    "height": 812
+                }
+            ]
+        },
+        {
+            "area": "General Area",
+            "issue": "Coldspot detected",
+            "details": "Temperature of 23.4 \u00b0C identified. | Thermal reading of 22.4 \u00b0C.",
+            "images": [
+                {
+                    "image_path": "data/images\\thermal_p1_3.png",
+                    "page": 1,
+                    "index": 3,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_4.png",
+                    "page": 1,
+                    "index": 4,
+                    "width": 1080,
+                    "height": 812
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_9.png",
+                    "page": 1,
+                    "index": 9,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_10.png",
+                    "page": 1,
+                    "index": 10,
+                    "width": 1080,
+                    "height": 812
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_15.png",
+                    "page": 1,
+                    "index": 15,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_16.png",
+                    "page": 1,
+                    "index": 16,
+                    "width": 1080,
+                    "height": 812
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_21.png",
+                    "page": 1,
+                    "index": 21,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_22.png",
+                    "page": 1,
+                    "index": 22,
+                    "width": 1080,
+                    "height": 812
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_27.png",
+                    "page": 1,
+                    "index": 27,
+                    "width": 1080,
+                    "height": 810
+                },
+                {
+                    "image_path": "data/images\\thermal_p1_28.png",
+                    "page": 1,
+                    "index": 28,
+                    "width": 1080,
+                    "height": 812
+                }
+            ]
+        }
+    ],
+    "Probable Root Cause": [
+        {
+            "area": "WC",
+            "cause": "The most likely cause is a water leak or moisture-related problem, often originating from the toilet seal, pipes, or sink."
+        },
+        {
+            "area": "External wall",
+            "cause": "The flagged item on an external wall most likely indicates a concern with water intrusion (dampness) or a potential structural crack."
+        },
+        {
+            "area": "General Area",
+            "cause": "The hotspot most likely indicates a hidden electrical fault, a hot water pipe leak, or a leaking heating duct."
+        },
+        {
+            "area": "General Area",
+            "cause": "The coldspot is likely caused by an insulation gap, air leakage, or the presence of moisture."
+        }
+    ],
+    "Severity Assessment": [
+        {
+            "area": "WC",
+            "severity": "Severity: Medium\nReason: The specific details of the flagged item are not provided, making it impossible to assess the actual risk or impact."
+        },
+        {
+            "area": "External wall",
+            "severity": "Severity: Medium\nReason: Specific details of the flagged item are not provided, making it impossible to assess the actual risk or impact."
+        },
+        {
+            "area": "General Area",
+            "severity": "Severity: Medium\nReason: The significance of the hotspot is unclear without knowing its location or the ambient temperature for comparison."
+        },
+        {
+            "area": "General Area",
+            "severity": "Severity: Low\nReason: The temperature difference is only 1.0 \u00b0C, which is minimal and does not indicate a significant issue like a major leak or large insulation void."
+        }
+    ],
+    "Recommended Actions": [
+        {
+            "area": "WC",
+            "action": "Further inspection recommended"
+        },
+        {
+            "area": "External wall",
+            "action": "Further inspection recommended"
+        },
+        {
+            "area": "General Area",
+            "action": "Further inspection recommended"
+        },
+        {
+            "area": "General Area",
+            "action": "Further inspection recommended"
+        }
+    ],
+    "Additional Notes": [],
+    "Missing or Unclear Information": []
+}
