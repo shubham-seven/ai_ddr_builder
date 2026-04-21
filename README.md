@@ -177,6 +177,11 @@ data/output/
 
 ## 🧠 Design Decisions
 
+- Used LLM only for semantic understanding (not extraction)
+- Implemented debug mode to reduce API cost
+- Used index-based pairing for thermal image mapping
+- Handled lack of text-image alignment using page-level grouping
+
 ### 🔹 Controlled LLM Usage
 
 * **Flash model** → text structuring (fast)
